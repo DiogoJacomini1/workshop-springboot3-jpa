@@ -52,7 +52,7 @@ public class Order implements Serializable {
 	}
 
 	
-	public Set<OrderItem> getIems(){
+	public Set<OrderItem> getItems(){
 		return items;
 	}
 	
